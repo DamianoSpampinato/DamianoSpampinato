@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! Damiano here! I'm a Boolean Student,</h2>
-
-
+<h3 align="left"> I'm currently learning PHP! Whats coming next?</h3>
 
 ###
 

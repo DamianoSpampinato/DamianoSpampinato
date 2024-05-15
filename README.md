@@ -24,7 +24,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="30" alt="PHP logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"/>
+  <img width="12" />
 </div>
 
 ###

@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! Damiano here! I'm a Boolean Student,</h2>
-<h3 align="left"> I'm currently learning PHP! Whats coming next?</h3>
+<h3 align="left"> I'm currently learning PHP! Getting started with GSAP <strong>LOVE THAT</strong> Whats coming next? We'll see!</h3>
+
 
 ###
 
@@ -22,7 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="30" alt="vuejs logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="30" alt="PHP logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"
 </div>
 
 ###

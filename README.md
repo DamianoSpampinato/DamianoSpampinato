@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! Damiano here! I'm a Boolean Student,</h2>
-<h3 align="left"> I'm currently learning PHP! Getting started with GSAP <small font-size="15px">LOVE THAT</small> Whats coming next? We'll see!</h3>
+<h3 align="left"> I'm currently learning PHP! Getting started with GSAP <span font-size="15">LOVE THAT</span> Whats coming next? We'll see!</h3>
 
 
 ###

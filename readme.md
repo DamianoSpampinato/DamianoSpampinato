@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! Damiano here! I'm a Boolean Student,</h2>
 <h3 align="left"> I'm currently learning Laravel! Getting started with GSAP <span font-size="15">LOVE THAT</span> Whats coming next? We'll see!</h3>
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DamianoSpampinato&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />

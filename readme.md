@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DamianoSpampinato/DamianoSpampinato/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

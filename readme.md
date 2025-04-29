@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! Damiano here! I'm a Boolean Student,</h2>
-<h3 align="left"> I'm currently learning Laravel! Getting started with GSAP <span font-size="15">LOVE THAT</span> Whats coming next? We'll see!</h3>
+<h3 align="left"> I'm currently working with React! <span font-size="15">LOVE THAT</span> Whats coming next? We'll see!</h3>
 
 
 <div align="center">
@@ -24,6 +24,8 @@
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://static.cdnlogo.com/logos/r/85/react.svg" height="30" alt="react logo"  />
 </div>
 
 ###

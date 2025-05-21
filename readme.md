@@ -26,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/r/85/react.svg" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://static.cdnlogo.com/logos/p/83/python.svg" height="30" alt="py logo"  />
 </div>
 
